@@ -35,5 +35,5 @@ Full Stack Airbnb Clone with Next.js App Router: React, Tailwind, Prisma, MongoD
 
 ## Live website
 
-Visit live site: [Click here](https://nesty-omega.vercel.app/)
+Visit live site: [Click here](https://nesty-omega.vercel.app/){:target="_blank"}
 
