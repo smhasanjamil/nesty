@@ -32,3 +32,4 @@ export async function DELETE(
 
   return NextResponse.json(listing);
 }
+

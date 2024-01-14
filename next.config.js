@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  experimental: {
+    appDir: true,
+  },
   images: {
     domains: [
       'res.cloudinary.com', 
@@ -9,4 +12,4 @@ const nextConfig = {
   }
 }
 
-module.exports = nextConfig;
+module.exports = nextConfig
